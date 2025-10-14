@@ -1,1 +1,0 @@
-"# API wrapper for TheMealDB" 
