@@ -11,7 +11,7 @@ export default function RecipeCard({ meal, onView, onFavorite }) {
           View
         </button>
         <button onClick={() => onFavorite(meal)} className="bg-red-400 text-white px-4 py-2 rounded hover:bg-red-500 transition">
-          ❤️
+          ️
         </button>
       </div>
     </div>
