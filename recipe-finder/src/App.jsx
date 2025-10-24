@@ -45,7 +45,7 @@ export default function App() {
         />
       )}
       <footer className="bg-gray-100 text-gray-600 text-center py-4 mt-10">
-        Powered by TheMealDB API 🍽️
+        Powered by TheMealDB API
       </footer>
     </div>
   );
